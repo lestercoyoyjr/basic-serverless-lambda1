@@ -26,4 +26,4 @@ So, follow this guide in order to access with token instead of password
 https://collabnix.com/how-to-fix-support-for-password-authentication-was-removed-error-in-github/
 
 IMPORTANT:
-In 2023, add S3fullAccess permission too, not just mentioned on video.
+In 2023, add ```S3fullAccess``` permission too, not just mentioned on video.
